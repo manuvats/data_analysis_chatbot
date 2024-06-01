@@ -1,0 +1,13 @@
+openai
+langchain
+langchain_experimental
+streamlit
+streamlit-chat
+streamlit-extras
+altair==4.0
+python-dotenv
+watchdog  # to supress warning
+pre-commit
+st-pages
+plotly
+tabulate
